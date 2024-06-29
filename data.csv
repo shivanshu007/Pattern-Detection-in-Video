@@ -1,0 +1,7 @@
+text,label
+"Sample text with a number 1234567890.",1
+"This text does not have a 10-digit number.",0
+"Another example with 0987654321 in it.",1
+"Text without any digits.",0
+"Random text 1122334455.",1
+"Yet another text.",0
